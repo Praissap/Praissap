@@ -24,6 +24,12 @@ I'm adapting [FRASA](https://github.com/Rhoban/frasa) (Rhoban, University of Bor
 
 Undergraduate research (Iniciação Científica) on galvanic skin response (GSR) as a measure of relaxation under different sensory stimuli in AR/VR.
 
+## Coursework
+
+**[Lifting gate dynamics](https://github.com/Praissap/lifting-gate-dynamics)** · [report](https://praissap.github.io/lifting-gate-dynamics/)
+
+Four models of a lifting gate on a pulley-and-spring suspension, from the ideal spring–mass system to a nonlinear model with a slack-prone rope and dry friction. Each model is derived by several routes (Newton, Lagrange, block diagrams, Mason's rule, state space) and cross-checked symbolically with SymPy.
+
 ## Publication
 
 Pereira Paulo, R. (2025). [*Moral Autonomy in Artificial Intelligence: Ethical and Technical Challenges*](https://www.incbac.org/authors-o-p/#PereiraPauloRaissa). UNIGOU Proceedings, INCBAC (Institute of Czech-Brazilian Academic Cooperation).
